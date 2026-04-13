@@ -1,0 +1,32 @@
+[
+  {
+    "at": 0.0,
+    "kind": "set",
+    "parameter_id": "mix",
+    "value": 0.35
+  },
+  {
+    "at": 0.4,
+    "kind": "batch",
+    "values": {
+      "mix": 0.75,
+      "output": -3.0
+    }
+  },
+  {
+    "at": 0.8,
+    "kind": "note",
+    "event_type": "on",
+    "note": 60,
+    "velocity": 100,
+    "channel": 1
+  },
+  {
+    "at": 1.2,
+    "kind": "note",
+    "event_type": "off",
+    "note": 60,
+    "velocity": 0,
+    "channel": 1
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"prompt": "Dark shimmer chorus with macro called Collapse", "expected_type": "effect"},
+  {"prompt": "Poly pad synth with analog drift and cinematic shimmer", "expected_type": "synth"},
+  {"prompt": "Low CPU tape delay with warm saturation", "expected_type": "effect"}
+]

@@ -1,0 +1,4 @@
+PAP effect template
+Voice mode: $voice_mode
+Validation profile: $validation_profile
+Modulation sources: $modulation_sources
